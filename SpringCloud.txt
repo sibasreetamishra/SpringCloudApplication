@@ -2,9 +2,9 @@
 
 Welcome to my spring cloud application.
 
-
-
-
+Api-Gateway
+Eureka
+Zipkin
 
 
 
